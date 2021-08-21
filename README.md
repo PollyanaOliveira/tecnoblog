@@ -1,3 +1,5 @@
+<p align="center"><img width='350px' src='https://github.com/PollyanaOliveira/tecnoblog/blob/main/imagens/blog.png' />
+
 <h1 align="center">TecnoBlog </h1>  </p>
 
 ## Desenvolvido por
